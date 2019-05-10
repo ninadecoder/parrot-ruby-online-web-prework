@@ -1,3 +1,2 @@
-def parrot(default = "Squawk!")
-  return parrot
+def 
 end
