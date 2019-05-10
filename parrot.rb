@@ -1,1 +1,3 @@
-phrase = parrot
+def parrot(default = "Squawk!")
+  return parrot
+end
